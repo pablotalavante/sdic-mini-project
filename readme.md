@@ -1,1 +1,1 @@
-clone this folder into ...robotics/robotics/pyvrep_epuck/notebooks
+paste these files into ...robotics/robotics/pyvrep_epuck/notebooks
